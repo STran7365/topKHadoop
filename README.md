@@ -19,9 +19,15 @@ Input file:  Book-Tiny.txt
 
 Specify your own Output directory like 
 
-# Running:
+# Top 3 Airports with the higest number of flights:
+- ATL     346836
+- ORD     285884
+- DFW     239551
 
-
+# Top 3 Airports with the largest departure delay ratio:
+- HA      1
+- WN      1
+- B6      1
 
 
 ## Create a JAR Using Maven 
